@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Contains the generated PSK for your private channel - never commit this
+config/channel.secret.yaml
+config/team.yaml
